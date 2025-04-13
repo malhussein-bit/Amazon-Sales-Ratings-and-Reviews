@@ -1,5 +1,7 @@
 # Amazon Sales Ratings and Reviews
 
+[Dasshboard link] https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Project_Product_Performance/AMAZONPRODUCT-CUSTOMERSATISFACTIONDASHBOARD
+
 ## Introduction
 The primary goal of this project is to analyze the Amazon Sales dataset and identify insights based on the data. This  dataset is a valuable resource for businesses and researchers. It provides a great deal of information about customer behavior and interactions with products.
 This will enable retailers, manufacturers and platform sellers to adjust their products and services to customer’s needs based on the information contained in the reviews thus ensuring better service and customer satisfaction that will drive higher sales.
@@ -79,7 +81,7 @@ From the Available 20 % of the total data on  Sentiment Feedback we can tell fro
 
 ## Dashboard Description
 Link:
-https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Project_Product_Performance/AMAZONPRODUCT-CUSTOMERSATISFACTIONDASHBOARD
+
 
 The Dashboard’s intended purpose is to provide an interactive filtering system to allow readers to investigate each Specific Category in terms of popularity , rating , actual vs discounted price and general sentiment about the listings in the Dataset ,. The dashboard breaks down the dataset by the Specific Category against the above measures using the top 15 Specific Categories as an overall Product Performance Indicator.
 
