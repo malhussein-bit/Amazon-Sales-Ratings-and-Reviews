@@ -92,7 +92,9 @@ Conclusion:
 The analysis conducted prove beyond doubt that the popularity of products is a combination  of 3 elements,  Serving the intended use, quality and the discount percentage applied to the actual price, ratings have no significant impact on the popularity of products.
 Reviews and Sentiments provide a useful source of information for vendors so corrective measures  can be  taken to adjust products and services to customer’s needs and expectations. 
 
+
 ---
+
 
 Future Work:
 
