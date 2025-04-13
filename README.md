@@ -80,10 +80,19 @@ From the Available 20 % of the total data on  Sentiment Feedback we can tell fro
  ---
 
 ## Dashboard Description
-Link:
-
 
 The Dashboard’s intended purpose is to provide an interactive filtering system to allow readers to investigate each Specific Category in terms of popularity , rating , actual vs discounted price and general sentiment about the listings in the Dataset ,. The dashboard breaks down the dataset by the Specific Category against the above measures using the top 15 Specific Categories as an overall Product Performance Indicator.
+
+
+
+
+
+![Dashboard_Main](https://github.com/user-attachments/assets/741ae56e-a4fb-4b5f-b7c9-cea9c8a5b066)
+
+
+
+
+
 
 ---
 
