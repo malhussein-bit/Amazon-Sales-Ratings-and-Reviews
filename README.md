@@ -93,6 +93,12 @@ The analysis conducted prove beyond doubt that the popularity of products is a c
 Reviews and Sentiments provide a useful source of information for vendors so corrective measures  can be  taken to adjust products and services to customer’s needs and expectations. 
 
 
+
+
+![Project_Datafolio](https://github.com/user-attachments/assets/a60d9856-8fe3-4175-9fb3-3177c706a321)
+
+
+
 ---
 
 
