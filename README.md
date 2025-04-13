@@ -7,11 +7,12 @@ This study identifies the most popular products in terms of number of listings ,
 The study does not include revenues estimation as no information was available about the number of items per specific category in the data .
 
 ## Business Impact
+
 Exploring the dataset will help businesses to identify causes that contribute to higher product sales, a few factors are observed that could potentially drive sales up in each Specific Category:
 
-1-	The need and intended use of the product 
-2-	The quality of the product in terms of durability
-3-	The discounted price offered by vendors on products 
+ - The need and intended use of the product 
+ - 	The quality of the product in terms of durability
+ - 	The discounted price offered by vendors on products 
 
 By analyzing the above and more, researchers and businesses alike can devise strategies to exploit the potential for better customer satisfaction thus achieving higher sales
 
