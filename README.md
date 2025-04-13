@@ -79,7 +79,7 @@ From the Available 20 % of the total data on  Sentiment Feedback we can tell fro
 
 ## Dashboard Description
 Link:
-https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Sales_Project_Dashboard/MainPage
+https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Project_Product_Performance/AMAZONPRODUCT-CUSTOMERSATISFACTIONDASHBOARD
 
 The Dashboard’s intended purpose is to provide an interactive filtering system to allow readers to investigate each Specific Category in terms of popularity , rating , actual vs discounted price and general sentiment about the listings in the Dataset ,. The dashboard breaks down the dataset by the Specific Category against the above measures using the top 15 Specific Categories as an overall Product Performance Indicator.
 
