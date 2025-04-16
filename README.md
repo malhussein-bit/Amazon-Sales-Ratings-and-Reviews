@@ -1,6 +1,7 @@
 # Amazon Sales Ratings and Reviews
 
-[Dasshboard link] https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Project_Product_Performance/AMAZONPRODUCT-CUSTOMERSATISFACTIONDASHBOARD
+[View the Amazon Product Performance Dashboard on Tableau](https://public.tableau.com/app/profile/mohammad.al.hussein/viz/Amazon_Project_Product_Performance/AMAZONPRODUCT-CUSTOMERSATISFACTIONDASHBOARD)
+
 
 ## Introduction
 The primary goal of this project is to analyze the Amazon Sales dataset and identify insights based on the data. This  dataset is a valuable resource for businesses and researchers. It provides a great deal of information about customer behavior and interactions with products.
