@@ -56,8 +56,15 @@ Observations:
 Judging from the chart below, the most popular Specific Category of products in the data set is Cables and Accessories with over 200 listings while the least popular in the same top 15 list  is water purifiers & accessories with approximately 25 listings.
 
 
+![image](https://github.com/user-attachments/assets/6e124101-a541-4e1c-a690-b03db9187385)
+
+
+
 2-	Actual VS Discounted price Distribution:
 it was observed that the subcategory of  Air-conditioners has the most gap between actual and Discounted prices at around 40k of difference while External hard disks had the least price difference.
+
+![image](https://github.com/user-attachments/assets/47846d14-c9b2-4257-8eb7-e033f9f24814)
+
 
 
 
@@ -68,14 +75,35 @@ it was observed that the subcategory of  Air-conditioners has the most gap betwe
 Investigating the rating of Product Specific category form the above chart, it was observed that most product ratings in the top 15 list fall between 4.3 and 4.5 with Cord Management, memory ,Surge Protectors, Streaming devices and Calculators sharing the lead at  4.5 while Air conditioners , Drawing & painting supplies cases and External Memory card reader are the lowest on then same list at a shred rating of 4.3.
 
 
+![image](https://github.com/user-attachments/assets/de494b1f-bcaf-4fe8-8501-8fb9905e3314)
+
+
+
 4-Sentiment Feedback (General)
 From the Available 20 % of the total data on  Sentiment Feedback we can tell from the below Pie chart that in general 70 % of the feedback was positive and 19% was negative where neutral feedback is as low as 11%.
+
+
+![image](https://github.com/user-attachments/assets/8af5e85a-d6f6-49f2-9ba9-d282783ebe85)
+
 
  
 
 5-Correlation Analysis
 •	The correlation between Discount price and Rating was plotted and calculated , a correlation coefficient value of 0.107 shows a weak positive correlation which indicates there is no relation between the discounted price and ratings.
+
+![image](https://github.com/user-attachments/assets/64d0be8b-1cf7-42f1-90f7-11c8f6100f12)
+
+
+
+
 •	The same was done for rating count and the discounted price, this correlation coefficient of -0.026 indicates a weak negative correlation which also shows no relation between the rating
+
+![image](https://github.com/user-attachments/assets/28523a10-5a68-452f-92d2-aeef9696442a)
+
+
+
+
+
 
  ---
 
