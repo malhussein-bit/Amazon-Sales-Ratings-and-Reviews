@@ -47,7 +47,7 @@ Observations:
  Data Wrangling:
 
 - Forty-one (41) duplicate rows were removed.
-- Columns remined at 18 and the remaining rows  became 1413
+- Columns remained at 18 and the remaining rows  became 1413
 - Columns:  about_product, user_id, user_name, review_id, review_title, review_content were ignored in the study as they only contained text values 
 - One empty column was removed 
 ---
